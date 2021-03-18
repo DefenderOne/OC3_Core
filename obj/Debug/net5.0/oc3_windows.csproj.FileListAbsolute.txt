@@ -1,0 +1,16 @@
+D:\kramarev\Documents\Projects\Операционные системы\3\oc3_windows\bin\Debug\net5.0\oc3_windows.exe
+D:\kramarev\Documents\Projects\Операционные системы\3\oc3_windows\bin\Debug\net5.0\oc3_windows.deps.json
+D:\kramarev\Documents\Projects\Операционные системы\3\oc3_windows\bin\Debug\net5.0\oc3_windows.runtimeconfig.json
+D:\kramarev\Documents\Projects\Операционные системы\3\oc3_windows\bin\Debug\net5.0\oc3_windows.runtimeconfig.dev.json
+D:\kramarev\Documents\Projects\Операционные системы\3\oc3_windows\bin\Debug\net5.0\oc3_windows.dll
+D:\kramarev\Documents\Projects\Операционные системы\3\oc3_windows\bin\Debug\net5.0\ref\oc3_windows.dll
+D:\kramarev\Documents\Projects\Операционные системы\3\oc3_windows\bin\Debug\net5.0\oc3_windows.pdb
+D:\kramarev\Documents\Projects\Операционные системы\3\oc3_windows\obj\Debug\net5.0\oc3_windows.GeneratedMSBuildEditorConfig.editorconfig
+D:\kramarev\Documents\Projects\Операционные системы\3\oc3_windows\obj\Debug\net5.0\oc3_windows.AssemblyInfoInputs.cache
+D:\kramarev\Documents\Projects\Операционные системы\3\oc3_windows\obj\Debug\net5.0\oc3_windows.AssemblyInfo.cs
+D:\kramarev\Documents\Projects\Операционные системы\3\oc3_windows\obj\Debug\net5.0\oc3_windows.csproj.CoreCompileInputs.cache
+D:\kramarev\Documents\Projects\Операционные системы\3\oc3_windows\obj\Debug\net5.0\oc3_windows.dll
+D:\kramarev\Documents\Projects\Операционные системы\3\oc3_windows\obj\Debug\net5.0\ref\oc3_windows.dll
+D:\kramarev\Documents\Projects\Операционные системы\3\oc3_windows\obj\Debug\net5.0\oc3_windows.pdb
+D:\kramarev\Documents\Projects\Операционные системы\3\oc3_windows\obj\Debug\net5.0\oc3_windows.genruntimeconfig.cache
+D:\kramarev\Documents\Projects\Операционные системы\3\oc3_windows\obj\Debug\net5.0\oc3_windows.csprojAssemblyReference.cache
